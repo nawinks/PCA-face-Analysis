@@ -8,7 +8,7 @@ Applying PCA to face images, and visulaizing prominent variation features of fac
 
 ## Data set used
 - UTK Face Cropped: https://www.kaggle.com/abhikjha/utk-face-cropped
-- Faces are synchronised in this, images are colred and of small size, have good variance in age, gender, ethinicity etc.
+- Synchronized well cropped face images, small size and colred, Good variance in age, gender, ethinicity etc.
 
 ## Setup
 
