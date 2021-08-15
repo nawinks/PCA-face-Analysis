@@ -17,7 +17,15 @@ Applying PCA to face images, and visulaizing variation of mean image in directio
 ## Execution
 
 - Run pca_training.m
+-- Loading Image ...
+-- Subtracting mean Image from all images ...
+-- Finding PCA ...
+-- saving PCA ...
+--Saving PCA vectors as Image ...
 - Run pca_visualization.m (Choose vector number, vecNo inside the code: Line number 4)
+-- Loading PCA Vectors...
+-- Loading PCA eigen values...
+-- Loading PCA eigen values...
 
 ## Results
 
@@ -25,9 +33,7 @@ Applying PCA to face images, and visulaizing variation of mean image in directio
 - Visualization of variation of mean image in direction of PCA vectors will be saved in same folder.
 
 ## Future Scope
-- Adding UI
-- PCA based compression
-- Separate Training and visualizing based on presaved data
+- Adding User Interface using Python/MatLab
 
 ## References
 
