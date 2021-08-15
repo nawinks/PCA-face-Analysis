@@ -30,6 +30,7 @@ Applying PCA to face images, and visulaizing variation of mean image in directio
 ## Results
 
 - It will save Pricipal components images (popularly named as ghost images) in pca_images folder.
+
 ![diagram](./readMeSupportFiles/ss.png)
 
 - Visualization of variation of mean image in direction of PCA vectors will be saved in same folder.
