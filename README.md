@@ -45,7 +45,3 @@ Applying PCA to face images, and visulaizing variation of mean image in directio
 
 ## Future Scope
 - Adding User Interface using Python/MatLab
-
-## References
-
-- 
