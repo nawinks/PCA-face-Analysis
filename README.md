@@ -29,12 +29,18 @@ Applying PCA to face images, and visulaizing variation of mean image in directio
 
 ## Results
 
-- It will save Pricipal components images in pca_images folder.
+- It will save Pricipal components images (popularly named as ghost images) in pca_images folder.
 ![diagram](./readMeSupportFiles/ss.png)
+
 - Visualization of variation of mean image in direction of PCA vectors will be saved in same folder.
+- It is amazing that PCA can learn complex features as PCA vectors.
+- Ethnicity and gender change in direction of vector 2
 ![diagram](./readMeSupportFiles/2.png)
+
+- Light direction, smile and gender change in direction of vector 3
 ![diagram](./readMeSupportFiles/3.png)
-![diagram](./readMeSupportFiles/6.png)
+
+- Ethnicity, smile and gender change in direction of vector 31
 ![diagram](./readMeSupportFiles/31.gif)
 
 ## Future Scope
