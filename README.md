@@ -30,12 +30,12 @@ Applying PCA to face images, and visulaizing variation of mean image in directio
 ## Results
 
 - It will save Pricipal components images in pca_images folder.
-!(./readMeSupportFiles/ss.png)
+![diagram](./readMeSupportFiles/ss.png)
 - Visualization of variation of mean image in direction of PCA vectors will be saved in same folder.
-!(./readMeSupportFiles/2.png)
-!(./readMeSupportFiles/3.png)
-!(./readMeSupportFiles/6.png)
-!(./readMeSupportFiles/31.gif)
+![diagram](./readMeSupportFiles/2.png)
+![diagram](./readMeSupportFiles/3.png)
+![diagram](./readMeSupportFiles/6.png)
+![diagram](./readMeSupportFiles/31.gif)
 
 ## Future Scope
 - Adding User Interface using Python/MatLab
