@@ -8,10 +8,10 @@ Applying PCA to colored face images, and visulaizing variation of mean image in 
 
 ## Data set used
 - Chosen 500 random images from UTK Face Cropped: https://www.kaggle.com/abhikjha/utk-face-cropped
--- colored face images
--- well cropped faces
--- small resolution
--- good variance in age, gender, ethinicity etc.
+  - colored face images
+  - well cropped faces
+  - small resolution
+  - good variance in age, gender, ethinicity etc.
 
 ## Setup
 
