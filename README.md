@@ -1,6 +1,6 @@
-# PCA Face Analysis
+# PCA for Colored Face Images
 
-Applying PCA to face images, and visulaizing variation of mean image in direction of PCA vectors.
+Applying PCA to colored face images, and visulaizing variation of mean image in direction of PCA vectors and noting the feature learned in that direction.
 
 ## Code Requirements
 - MatLab/Octave
@@ -8,7 +8,10 @@ Applying PCA to face images, and visulaizing variation of mean image in directio
 
 ## Data set used
 - Chosen 500 random images from UTK Face Cropped: https://www.kaggle.com/abhikjha/utk-face-cropped
-- Synchronized well cropped face images, small size and colred, Good variance in age, gender, ethinicity etc.
+-- colored face images
+-- well cropped faces
+-- small resolution
+-- good variance in age, gender, ethinicity etc.
 
 ## Setup
 
