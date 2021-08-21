@@ -17,7 +17,9 @@ Applying PCA to colored face images, and visulaizing variation of mean image in 
 
 1) Need Matlab/Octave
 
-## Execution
+
+## Execution and results
+### Eigen Faces
 
 - Run pca_training.m
   - Loading Image ...
@@ -25,19 +27,17 @@ Applying PCA to colored face images, and visulaizing variation of mean image in 
   - Finding PCA ...
   - saving PCA ...
   - Saving PCA vectors as Image ...
+- Running pca_training.m will save Pricipal components images in pca_images folder.
+
+![diagram](./readMeSupportFiles/ss.png)
+
+### Visualizing feature learned by vectors
 - Run pca_visualization.m (Choose vector number, vecNo inside the code: Line number 4)
   - Loading PCA Vectors...
   - Loading PCA eigen values...
   - Loading PCA eigen values...
-
-## Results
-
-- It will save Pricipal components images (popularly named as ghost images) in pca_images folder.
-
-![diagram](./readMeSupportFiles/ss.png)
-
 - Visualization of variation of mean image in direction of PCA vectors will be saved in same folder.
-- It is amazing that PCA can learn complex features as PCA vectors.
+- It is amazing that PCA can learn complex features as PCA vectors
 - Ethnicity and gender change in direction of vector 2
 ![diagram](./readMeSupportFiles/2.png)
 
